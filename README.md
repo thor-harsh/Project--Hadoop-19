@@ -1,6 +1,5 @@
 # Project--Hadoop-19
 
-
 <table>
 
 **In this Project we will be using Spark SQL to create a dataframe instead of RDD to count the number of friends associated with each age group.**
@@ -17,10 +16,10 @@ Spark SQL supports the HiveQL syntax as well as Hive SerDes and UDFs, allowing y
 
 
 **This dataset which we downloaded contains 4 columns:** <br></br>
- **(User-Id):** The id of the person <br></br>
- **(Name):** The name of the person<br></br>
- **(Age):** The age of the person<br></br>
- **(Friends):** The total number of friends<br></br>
+ **(User-Id):** The id of the user <br></br>
+ **(Name):** The name of the user <br></br>
+ **(Age):** The age of the user <br></br>
+ **(Friends):** The total number of friends <br></br>
  
  **Important Note: Go through the dataset before jumping to the code.**
 
